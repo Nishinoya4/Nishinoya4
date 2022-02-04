@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishinoya4
+- 👋 Hi, I’m @Nishinoya4!
 - 👀 I’m interested in coding and technology.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on some coding projects.
